@@ -1,0 +1,18 @@
+ if you convert one base to another base 
+ bin() is used any form binary form 
+ ex:- bin(0o1234)
+ bin(123)
+ bin(0xface)
+
+ octal() is used any base to octal form
+ octal(129)
+ octal(0B101111)
+ octal(0xbeef)
+
+ hex() is used any base to hexadecimal form
+ hex(12)
+ hex(0B1111)
+ hex(0O123345)
+
+ note : genaral default ouput is decimal form 
+ 
