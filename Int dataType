@@ -1,0 +1,15 @@
+ int reprasent intigral values or whole numbers example 0-9
+number=20
+intigral values reprasent in 4 ways 
+1) decimal form (base 10)
+a=30
+2)binary form(base 2) and values (0,1)
+a value prefixed with 0b or 0B is called binary form.
+ex:- x=0B01111
+3)octal form(base 8) and values(0-7)
+a value prefixed with 0o or 0O is called octal form.
+ex:- y=0O1234567
+4) hexadecimal form(base 16) and values(0-9 and a to f)
+a value prefixed with 0X or 0x is called hexa decimal form 
+ex:- z=0X1234567890abcdfe
+
