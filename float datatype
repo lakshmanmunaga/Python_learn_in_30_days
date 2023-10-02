@@ -1,0 +1,9 @@
+a value with decimal is called float
+ex: petrol=101.34
+float data type reprasent floating values
+signtificnotation or explonential form 
+large values in less space it is the biggest advantage in float exponential form.
+ex: a=12e3      e=10 
+   a=12*10 power of 3
+   a=12000.0
+   
