@@ -1,0 +1,31 @@
+Sequence of charecters enclosed with single or double or threeble quotes is called string
+name="lakshman"
+there is no char datatype in python
+a="a"
+even single charecter is also consider as string
+  single quotes 
+name ='this is python practise'
+
+double quotes
+ name ="this is python practise"
+
+ threeble quotes
+
+details=""" this is python practice persoe 
+it can be used 
+for this platform 
+"""
+this is multiline string
+
+escape sequences
+
+name="lakshman\nmunaga" \n new line
+single quotes inside double quotes
+
+name="this is the first time i haven't used this"
+details =' my name is "python" and i can create multiple applications'
+
+details=""" this is the best "python" practise for the git platform and all about learning 'for' pyhthon"""
+
+
+
