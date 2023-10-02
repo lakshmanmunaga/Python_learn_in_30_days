@@ -1,0 +1,10 @@
+# KEYWORDS
+# a word having special meanging reserved by programming language is called keyword.
+# 35 keywords available in python they are
+# True,False,None,and or not,in,is, def class pass,lambda raise del global nonlocal,for while break continue ,return yeild with from as ,assert async await,try accept finally,if else elif,import
+# all keywords are letters and all are lower case except True,False,None
+# if you find all keywords using import keyword  and keyword.kwlist
+# if you find  a word is keyword or not using "iskeyword() method"
+# They are some special keys in python "_x is protected variable"
+# "__x is private variable"
+# " __x__ is special or magic variable"
