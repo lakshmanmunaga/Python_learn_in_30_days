@@ -1,0 +1,9 @@
+boolean data type it return True or False 
+True means =1
+False means =0
+boolean support all arthematic operations
+it support all fundamental datatypes
+True+True=2
+True+False=1
+False+False=0
+False+True=1
