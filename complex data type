@@ -1,0 +1,23 @@
+complex data type is special data type in python .no complex datatype compare to other programming languages.
+
+syntax : x=a+bj     j means squere root of -1  and j2=-1
+number=10+20j
+10 is real part and 20j is imaginary part 
+if you find real part then 
+number.real
+number.imag
+
+complex support all arthematic operations
+a=10+20j
+b=20+30j
+a+b
+a-b
+a/b
+a*b
+a%b din't support
+a//b didn't support
+
+it is used mathematical application dovelapments
+
+
+
