@@ -1,0 +1,41 @@
+int to float
+int(90.34) =>90
+int(True)=>1
+int(10+20j) => syntax error
+int("name") can't support and support internally base 10
+int('10')=>10
+
+
+
+
+boolean
+bool(10)   True nonzero is True otherwise False
+bool("name") True  empty string is false otherwise True
+bool(10+20j)   True
+bool(12.34) True
+bool(0.0)  False
+
+complex
+
+complex(10)   10+0j
+complex(True) 1+0j
+complex("name") syntax error
+complex(12.5) 12.5+0j
+
+complex(10,20) 10+20j
+complex(12.4,10)   12.4+10j
+complex(True,False)  1+0j
+
+float(10)  10.0
+float(True) 1.0
+float(10+20j)    type error
+float("10")   10.0
+float('name') value error
+
+str(10)  "10"
+str(True)  "True"
+str(10+20j)   "10+20j"
+str(10.0)  "10.0"
+
+
+
