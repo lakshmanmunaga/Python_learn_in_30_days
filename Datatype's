@@ -1,0 +1,7 @@
+# what is data type : type of data we are declared 
+# but in python we are not declare type explicitly because python is dynamic programming language .
+# python data types are 
+# fundamental data types are int,float,complex,boolean,string(str)
+# collection datatypes are list,set,tuple,dict,set,frozenset
+# range,None
+# bynary type : bytes,bytesarray,memoryview
